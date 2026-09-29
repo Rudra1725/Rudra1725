@@ -1,13 +1,15 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,8,20&height=180&section=header&text=Welcome%20to%20my%20Profile&fontSize=38&animation=twinkling&fontColor=ffffff" width="100%" />
+</div>
+
+<div align="center">
   <h1>Hi 👋, I'm Rudra Wagh</h1>
   <p><strong>First-Year Engineering Student in Artificial Intelligence & Data Science (AI & DS)</strong></p>
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,8,20&height=180&section=header&text=Welcome%20to%20my%20Profile&fontSize=38&animation=twinkling&fontColor=ffffff" width="100%" />
-</div>
+
 
 ### 💫 About Me
 - 🔭 **Focus:** Core engineering fundamentals, Python programming, and practical web applications.
