@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,8,20&height=100&section=footer" width="100%" />
+  <img src="https://spotify-github-readme.vercel.app/api?type=compact&theme=dark" alt="Spotify Listening" />
 </div>
 
 <div align="center">
