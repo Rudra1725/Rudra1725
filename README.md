@@ -3,6 +3,12 @@
 </div>
 
 <div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=First-Year+AI+%26+Data+Science+Student;Building+Python+%26+Automation+Tools;Exploring+Data+Science+%26+Web+Dev" alt="Typing SVG" />
+  </a>
+</div>
+
+<div align="center">
   <h1>Hi 👋, I'm Rudra Wagh</h1>
   <p><strong>First-Year Engineering Student in Artificial Intelligence & Data Science (AI & DS)</strong></p>
 </div>
