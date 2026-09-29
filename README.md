@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Rudra1725/Rudra1725/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,8,20&height=100&section=footer" width="100%" />
 </div>
 
 <div align="center">
