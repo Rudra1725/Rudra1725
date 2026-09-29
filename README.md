@@ -11,12 +11,12 @@
 
 
 
-### 💫 About Me
-- 🔭 **Focus:** Core engineering fundamentals, Python programming, and practical web applications.
-- 🌱 **Learning:** Data science libraries, algorithms, and modern software design.
-- 🤝 **Open to:** Beginner-friendly open-source repositories, AI tool projects, and student hackathons.
-- 💬 **Ask me about:** Python, web basics, AI/ML concepts, and tech hardware.
-- ⚡ **Fun Fact:** Teaching machines how to learn while figuring out how I learn best!
+> ### 💫 About Me
+> - 🔭 **Focus:** Core engineering fundamentals, Python programming, and practical web applications.
+> - 🌱 **Learning:** Data science libraries, algorithms, and modern software design.
+> - 🤝 **Open to:** Beginner-friendly open-source repositories, AI tool projects, and student hackathons.
+> - 💬 **Ask me about:** Python, web basics, AI/ML concepts, and tech hardware.
+> - ⚡ **Fun Fact:** Teaching machines how to learn while figuring out how I learn best!
 
 ---
 
