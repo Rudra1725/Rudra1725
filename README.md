@@ -2,9 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,8,20&height=180&section=header&text=Welcome%20to%20my%20Profile&fontSize=38&animation=twinkling&fontColor=ffffff" width="100%" />
 </div>
 
-<div align="center">
-  <img src="https://spotify-github-readme.vercel.app/api?type=compact&theme=dark" alt="Spotify Listening" />
-</div>
+
 
 <div align="center">
   <h1>Hi 👋, I'm Rudra Wagh</h1>
