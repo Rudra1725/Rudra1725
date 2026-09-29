@@ -34,7 +34,13 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="42" height="42"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="42" height="42"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="42" height="42"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="42" height="42"/>&nbsp;
+  <a href="https://github.com/Rudra1725">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg#gh-dark-mode-only" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg#gh-light-mode-only" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="42" height="42" style="filter: drop-shadow(0px 0px 4px rgba(255,255,255,0.7));"/>
+    </picture>
+  </a>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="42" height="42"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" alt="Blender" width="42" height="42"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" alt="Photoshop" width="42" height="42"/>&nbsp;
@@ -44,21 +50,22 @@
 ---
 
 ### 🌐 Connect With Me
+
 <p align="left">
   <a href="https://linkedin.com/in/rudra-wagh-476a9830b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/rudxa_w17" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://discord.gg/vExjYcHh4" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-  <a href="https://youtube.com/@UCC7yXB1ZcxrUc2x9PRewbZg" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>&nbsp;
   <a href="mailto:rudrawagh2575@gmail.com?subject=Hello%20Rudra!">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>&nbsp;
+  <a href="https://discord.gg/vExjYcHh4" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>&nbsp;
+  <a href="https://instagram.com/rudxa_w17" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>&nbsp;
+  <a href="https://youtube.com/@UCC7yXB1ZcxrUc2x9PRewbZg" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
 </p>
 
