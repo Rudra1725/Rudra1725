@@ -10,7 +10,7 @@
 </div>
 
 <div align="center">
-  <img src="assets/line.gif" width="100%" alt="Divider" />
+  <img src="assets/Untitled%20design.png" width="450" alt="Divider" />
 </div>
 
 > ### 💫 About Me
@@ -21,7 +21,7 @@
 > - ⚡ **Fun Fact:** Teaching machines how to learn while figuring out how I learn best!
 
 <div align="center">
-  <img src="assets/line.gif" width="100%" alt="Divider" />
+  <img src="assets/Untitled%20design.png" width="450" alt="Divider" />
 </div>
 
 <h3>Tech Stack & Skills &nbsp;<img src="assets/code.gif" width="22" align="center" /></h3>
@@ -57,7 +57,7 @@
 <br clear="both"/>
 
 <div align="center">
-  <img src="assets/line.gif" width="100%" alt="Divider" />
+  <img src="assets/Untitled%20design.png" width="450" alt="Divider" />
 </div>
 
 ### 🌐 Connect With Me
@@ -78,7 +78,7 @@
 </p>
 
 <div align="center">
-  <img src="assets/line.gif" width="100%" alt="Divider" />
+  <img src="assets/Untitled%20design.png" width="450" alt="Divider" />
 </div>
 
 ### 📊 GitHub Stats
@@ -92,7 +92,7 @@
 </div>
 
 <div align="center">
-  <img src="assets/line.gif" width="100%" alt="Divider" />
+  <img src="assets/Untitled%20design.png" width="450" alt="Divider" />
 </div>
 
 <div align="center">
