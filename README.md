@@ -10,7 +10,7 @@
 </div>
 
 <div align="center">
-  <img src="assets/Untitled%20design.png" width="450" alt="Divider" />
+  <hr style="width: 450px; border: 0; height: 1.5px; background: #30363d; margin: 25px auto;" />
 </div>
 
 > ### 💫 About Me
@@ -21,7 +21,7 @@
 > - ⚡ **Fun Fact:** Teaching machines how to learn while figuring out how I learn best!
 
 <div align="center">
-  <img src="assets/Untitled%20design.png" width="450" alt="Divider" />
+  <hr style="width: 450px; border: 0; height: 1.5px; background: #30363d; margin: 25px auto;" />
 </div>
 
 <h3>Tech Stack & Skills &nbsp;<img src="assets/code.gif" width="22" align="center" /></h3>
@@ -57,7 +57,7 @@
 <br clear="both"/>
 
 <div align="center">
-  <img src="assets/Untitled%20design.png" width="450" alt="Divider" />
+  <hr style="width: 450px; border: 0; height: 1.5px; background: #30363d; margin: 25px auto;" />
 </div>
 
 ### 🌐 Connect With Me
@@ -78,7 +78,7 @@
 </p>
 
 <div align="center">
-  <img src="assets/Untitled%20design.png" width="450" alt="Divider" />
+  <hr style="width: 450px; border: 0; height: 1.5px; background: #30363d; margin: 25px auto;" />
 </div>
 
 ### 📊 GitHub Stats
@@ -92,7 +92,7 @@
 </div>
 
 <div align="center">
-  <img src="assets/Untitled%20design.png" width="450" alt="Divider" />
+  <hr style="width: 450px; border: 0; height: 1.5px; background: #30363d; margin: 25px auto;" />
 </div>
 
 <div align="center">
