@@ -3,10 +3,9 @@
 </div>
 
 <div align="center">
-  <h1>Hi 👋, I'm Rudra Wagh</h1>
+  <h1>Hi <img src="assets/wave.gif" width="35px" style="vertical-align: middle;" /> , I'm Rudra Wagh</h1>
   <p><strong>First-Year Engineering Student in Artificial Intelligence & Data Science (AI & DS)</strong></p>
 </div>
-
 ---
 
 
