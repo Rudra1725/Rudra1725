@@ -72,17 +72,17 @@
 </p>
 
 ---
+>
+
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Rudra1725&show_icons=true&theme=dark&hide_border=false" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api?username=Rudra1725&show_icons=true&title_color=00f2fe&text_color=e0f7fa&icon_color=00f2fe&bg_color=0d1117&border_color=00f2fe44&hide_border=false" alt="GitHub Stats" />
   <br/><br/>
-  <img src="https://streak-stats.demolab.com/?user=Rudra1725&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Rudra1725&theme=dark&ring=00f2fe&fire=00f2fe&currStreakLabel=00f2fe&border=00f2fe44&background=0d1117&currStreakNum=ffffff" alt="GitHub Streak" />
   <br/><br/>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Rudra1725&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
-</div>
 
-<div align="center">
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=Rudra1725&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-</div>
+  <div align="center">
+  <img src="assets/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
+</div
+  
