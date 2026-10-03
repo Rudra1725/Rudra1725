@@ -9,7 +9,9 @@
   <p><strong>First-Year Engineering Student in Artificial Intelligence & Data Science (AI & DS)</strong></p>
 </div>
 
----
+<div align="center">
+  <img src="assets/line.gif" width="100%" alt="Divider" />
+</div>
 
 > ### 💫 About Me
 > - 🔭 **Focus:** Core engineering fundamentals, Python programming, and practical web applications.
@@ -18,7 +20,9 @@
 > - 💬 **Ask me about:** Python, web basics, AI/ML concepts, and tech hardware.
 > - ⚡ **Fun Fact:** Teaching machines how to learn while figuring out how I learn best!
 
----
+<div align="center">
+  <img src="assets/line.gif" width="100%" alt="Divider" />
+</div>
 
 <h3>Tech Stack & Skills &nbsp;<img src="assets/code.gif" width="22" align="center" /></h3>
 
@@ -52,7 +56,9 @@
 
 <br clear="both"/>
 
----
+<div align="center">
+  <img src="assets/line.gif" width="100%" alt="Divider" />
+</div>
 
 ### 🌐 Connect With Me
 
@@ -71,18 +77,24 @@
   </a>
 </p>
 
----
->
-
+<div align="center">
+  <img src="assets/line.gif" width="100%" alt="Divider" />
+</div>
 
 ### 📊 GitHub Stats
+
 <div align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=Rudra1725&show_icons=true&title_color=00f2fe&text_color=e0f7fa&icon_color=00f2fe&bg_color=0d1117&border_color=00f2fe44&hide_border=false" alt="GitHub Stats" />
   <br/><br/>
   <img src="https://streak-stats.demolab.com/?user=Rudra1725&theme=dark&ring=00f2fe&fire=00f2fe&currStreakLabel=00f2fe&border=00f2fe44&background=0d1117&currStreakNum=ffffff" alt="GitHub Streak" />
   <br/><br/>
-
-  <div align="center">
   <img src="assets/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
-</div
-  
+</div>
+
+<div align="center">
+  <img src="assets/line.gif" width="100%" alt="Divider" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rudra1725&label=Profile%20Views&color=00f2fe&style=flat-square" alt="Profile Views" />
+</div>
