@@ -26,7 +26,7 @@
 
 <h3>Tech Stack & Skills <img src="assets/code.gif" height="22" valign="middle" /></h3>
 
-<img align="right" src="assets/mario.gif" width="400" alt="Mario Setup" />
+<img align="right" src="assets/mario.gif" width="380" alt="Mario Setup" />
 
 <p align="left"><strong>Languages &amp; Frameworks</strong></p>
 <p align="left">
