@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <h1>Hi <img src="assets/wave.gif" width="35" align="center" /> , I'm Rudra Wagh</h1>
+  <h1>Hi <img src="assets/wave.gif" height="30" valign="middle" />, I'm Rudra Wagh</h1>
   <p><strong>First-Year Engineering Student in Artificial Intelligence & Data Science (AI & DS)</strong></p>
 </div>
 
@@ -24,9 +24,9 @@
   <hr style="width: 450px; border: 0; height: 1.5px; background: #30363d; margin: 25px auto;" />
 </div>
 
-<h3>Tech Stack & Skills &nbsp;<img src="assets/code.gif" width="22" align="center" /></h3>
+<h3>Tech Stack & Skills <img src="assets/code.gif" height="22" valign="middle" /></h3>
 
-<img align="right" src="assets/mario.gif" width="380" alt="Mario Setup" />
+<img align="right" src="assets/mario.gif" width="450" alt="Mario Setup" />
 
 <p align="left"><strong>Languages &amp; Frameworks</strong></p>
 <p align="left">
@@ -84,9 +84,9 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Rudra1725&show_icons=true&title_color=00f2fe&text_color=e0f7fa&icon_color=00f2fe&bg_color=0d1117&border_color=00f2fe44&hide_border=false" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rudra1725&show_icons=true&title_color=00f2fe&text_color=e0f7fa&icon_color=00f2fe&bg_color=0d1117&border_color=00f2fe44&border_radius=8&hide_border=false" alt="GitHub Stats" />
   <br/><br/>
-  <img src="https://streak-stats.demolab.com/?user=Rudra1725&theme=dark&ring=00f2fe&fire=00f2fe&currStreakLabel=00f2fe&border=00f2fe44&background=0d1117&currStreakNum=ffffff" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Rudra1725&theme=dark&ring=00f2fe&fire=00f2fe&currStreakLabel=00f2fe&border=00f2fe44&background=0d1117&currStreakNum=ffffff&border_radius=8" alt="GitHub Streak" />
   <br/><br/>
   <img src="assets/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
 </div>
