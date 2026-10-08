@@ -3,7 +3,7 @@
   <br/>
   <img src="assets/pacman.gif" width="280" alt="Pacman" />
 </div>
-r
+
 <div align="center">
   <h1>Hi <img src="assets/wave.gif" height="30" valign="middle" />, I'm Rudra Wagh</h1>
   <p><strong>First-Year Engineering Student in Artificial Intelligence & Data Science (AI & DS)</strong></p>
