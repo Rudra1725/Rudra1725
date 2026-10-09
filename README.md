@@ -48,6 +48,7 @@
     <img src="assets/github.gif" alt="GitHub" height="42" align="center" />
   </a>&nbsp;
   <img src="assets/vs.gif" alt="VS Code" height="42" align="center" />&nbsp;
+  <img src="assets/AND.gif" alt="Android Studio" height="42" align="center" />&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" alt="Blender" height="42" align="center" />&nbsp;
   <img src="assets/Adobe Photoshop.gif" alt="Photoshop" height="46" align="center" />&nbsp;
   <img src="assets/Adobe Premiere Pro.gif" alt="Premiere Pro" height="46" align="center" />&nbsp;
