@@ -38,7 +38,7 @@
   <img src="assets/MySQL.gif" alt="MySQL" height="52" align="center" />&nbsp;
   <img src="assets/node.gif" alt="NodeJS" height="42" align="center" />&nbsp;
   <img src="assets/react.gif" alt="React" height="42" align="center" />&nbsp;
-  <img src="assets/Java logo.gif" alt="Java" height="52" align="center" />
+  <img src="assets/Java logo.gif" alt="Java" height="69" align="center" />
 </p>
 
 <p align="left"><strong>Tools &amp; Creative Software</strong></p>
