@@ -18,7 +18,7 @@
 > - 🌱 **Learning:** Data science libraries, algorithms, and modern software design.
 > - 🤝 **Open to:** Beginner-friendly open-source repositories, AI tool projects, and student hackathons.
 > - 💬 **Ask me about:** Python, web basics, AI/ML concepts, and tech hardware.
-> - ⚡ **Fun Fact:** Teaching machines how to learn while figuring out how I learn best!
+> - ⚡ **Fun Fact:** Teaching machines how to learn while figuring out how I learn best!.
 
 <div align="center">
   <hr style="width: 450px; border: 0; height: 1.5px; background: #30363d; margin: 25px auto;" />
