@@ -14,7 +14,7 @@
 </div>
 
 > ### 💫 About Me
-> - 🔭 **Focus:** Core engineering fundamentals, Python programming, and practical web applications.
+> - 🔭 **Focus:** Core engineering fundamentals, Python programming, and practical web applications & OpenCv
 > - 🌱 **Learning:** Data science libraries, algorithms, and modern software design.
 > - 🤝 **Open to:** Beginner-friendly open-source repositories, AI tool projects, and student hackathons.
 > - 💬 **Ask me about:** Python, web basics, AI/ML concepts, and tech hardware.
