@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,8,20&height=180&section=header&text=Welcome%20to%20my%20Profile&fontSize=38&fontAlignY=40&animation=twinkling&fontColor=ffffff" width="100%" />
   <br/>
-  <img src="assets/pacman.gif" width="290" alt="Pacman" />
+  <img src="assets/pacman.gif" width="290" alt="Pacman" />l
 </div>
 
 <div align="center">
