@@ -56,7 +56,7 @@
   <img src="assets/Adobe Photoshop.gif" alt="Photoshop" height="46" align="center" />&nbsp;
   <img src="assets/Adobe Premiere Pro.gif" alt="Premiere Pro" height="46" align="center" />&nbsp;
   <img src="assets/Adobe After Effects.gif" alt="After Effects" height="46" align="center" />&nbsp;
-  <img src="assets/ai icon.gif" alt="Illustrator" height="46" align="center" />
+  <img src="assets/ai icon.gif" alt="Illustrator" height="46" align="center" />&nbsp;
 </p>
 
 <br clear="both"/>
