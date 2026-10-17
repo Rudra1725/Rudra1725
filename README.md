@@ -103,6 +103,4 @@
   <hr style="width: 450px; border: 0; height: 1.5px; background: #30363d; margin: 25px auto;" />
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rudra1725&label=Profile%20Views&color=00f2fe&style=flat-square" alt="Profile Views" />
-</div>
+
