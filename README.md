@@ -90,8 +90,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rudra1725&show_icons=true&title_color=00f2fe&text_color=e0f7fa&icon_color=00f2fe&bg_color=0d1117&border_color=00f2fe44&border_radius=8&hide_border=false" alt="GitHub Stats" />
-  <br/><br/>
+ 
   <img src="https://streak-stats.demolab.com/?user=Rudra1725&theme=dark&ring=00f2fe&fire=00f2fe&currStreakLabel=00f2fe&border=00f2fe44&background=0d1117&currStreakNum=ffffff&border_radius=8" alt="GitHub Streak" />
   <br/><br/>
   <img src="assets/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
