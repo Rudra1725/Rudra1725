@@ -39,6 +39,7 @@
   <img src="assets/node.gif" alt="NodeJS" height="42" align="center" />&nbsp;
   <img src="assets/react.gif" alt="React" height="42" align="center" />&nbsp;
   <img src="assets/Kotlin.gif" alt="React" height="42" align="center" />&nbsp;
+  <img src="assets/Face Scan - Gray.gif" alt="React" height="42" align="center" />&nbsp;
 <img src="assets/Java.png" alt="React" height="42" align="center" />&nbsp;
   
 </p>
