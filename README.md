@@ -63,6 +63,8 @@
   <img src="assets/Adobe After Effects.gif" alt="After Effects" height="46" align="center" />&nbsp;
   <img src="assets/ai icon.gif" alt="Illustrator" height="46" align="center" />&nbsp;
   <img src="assets/docker.gif" alt="React" height=60" align="center" />&nbsp;
+  <img src="assets/PC.gif" alt="Illustrator" height="46" align="center" />&nbsp;
+  
 </p>
 
 <br clear="both"/>
