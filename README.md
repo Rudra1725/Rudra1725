@@ -13,12 +13,15 @@
   <hr style="width: 450px; border: 0; height: 1.5px; background: #30363d; margin: 25px auto;" />
 </div>
 
-> ### 💫 About Me
-> - 🔭 **Focus:** Core engineering fundamentals, Python programming, and practical web applications & OpenCv
-> - 🌱 **Learning:** Data science libraries, algorithms, and modern software design.
-> - 🤝 **Open to:** Beginner-friendly open-source repositories, AI tool projects, and student hackathons.
-> - 💬 **Ask me about:** Python, web basics, AI/ML concepts, and tech hardware ⚙️.
-> - ⚡ **Fun Fact:** Teaching machines how to learn while figuring out how I learn best!.
+### 💫 Learning & Focused On
+
+- 🚀 Building scalable, production-ready full-stack applications
+- ⚡ Exploring real-time systems, live data updates, and API integrations
+- 🎨 Improving UI/UX and product design to build software that's both useful and intuitive
+- 🧠 Exploring AI-powered applications, intelligent automation, and practical AI integrations
+- 🛠️ Strengthening problem-solving, clean code practices, and software development fundamentals
+- 🤝 **Open to:** Beginner-friendly open-source contributions, AI-driven projects, collaborative development, and student hackathons
+ 
 
 <div align="center">
   <hr style="width: 450px; border: 0; height: 1.5px; background: #30363d; margin: 25px auto;" />
