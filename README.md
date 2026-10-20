@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,8,20&height=180&section=header&text=Welcome%20to%20my%20Profile&fontSize=38&fontAlignY=40&animation=twinkling&fontColor=ffffff" width="100%" />
  
 </div>
-
+k
 <div align="center">
   <h1>Hi <img src="assets/wave.gif" height="30" valign="middle" />, I'm Rudra Wagh</h1>
   <p><strong>First-Year Engineering Student in Artificial Intelligence & Data Science (AI & DS)</strong></p>
