@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <h1>Hi <img src="assets/wave.gif" height="30" valign="middle" />, I'm 𝓡𝓾𝓭𝓻𝓪 𝓦𝓪𝓰𝓱</h1>
+  <h1>Hi <img src="assets/wave.gif" height="30" valign="middle" />, I'm 𝑹𝒖𝒅𝒓𝒂 𝑾𝒂𝒈𝒉</h1>
   <p><strong>Pursuing B.E. in Artificial Intelligence & Data Science (AI & DS) | First Year </strong></p>
 </div>
 
