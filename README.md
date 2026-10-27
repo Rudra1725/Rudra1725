@@ -42,7 +42,7 @@
   <img src="assets/react.svg" alt="React" height="42" align="center" />&nbsp;
   <img src="assets/Kotlin.gif" alt="React" height="42" align="center" />&nbsp;
   <img src="assets/Face Scan - Gray.gif" alt="React" height="42" align="center" />&nbsp;
-  <img src="assets/Java.svg" alt="React" height="42" align="center" />&nbsp;
+  <img src="assets/java.svg" alt="React" height="42" align="center" />&nbsp;
   <img src="assets/and.gif" alt="React" height="42" align="center" />&nbsp;
 
   
