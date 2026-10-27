@@ -39,7 +39,7 @@
   <img src="assets/js.gif" alt="JavaScript" height="42" align="center" />&nbsp;
   <img src="assets/MySQL.gif" alt="MySQL" height="52" align="center" />&nbsp;
   <img src="assets/node.gif" alt="NodeJS" height="42" align="center" />&nbsp;
-  <img src="assets/react.gif" alt="React" height="42" align="center" />&nbsp;
+  <img src="assets/react.svg" alt="React" height="42" align="center" />&nbsp;
   <img src="assets/Kotlin.gif" alt="React" height="42" align="center" />&nbsp;
   <img src="assets/Face Scan - Gray.gif" alt="React" height="42" align="center" />&nbsp;
   <img src="assets/Java.png" alt="React" height="42" align="center" />&nbsp;
