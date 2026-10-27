@@ -63,6 +63,7 @@
   <img src="assets/ai icon.gif" alt="Illustrator" height="46" align="center" />&nbsp;
   <img src="assets/dock.svg" alt="React" height=60" align="center" />&nbsp;
   <img src="assets/PC.gif" alt="Illustrator" height="46" align="center" />&nbsp;
+  <img src="assets/post.svg" alt="Illustrator" height="36" align="center" />&nbsp;
   
 </p>
 
