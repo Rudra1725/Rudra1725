@@ -103,8 +103,6 @@
   <img src="assets/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
 </div>
 
-<div align="center">
-  <hr style="width: 450px; border: 0; height: 1.5px; background: #30363d; margin: 25px auto;" />
-</div>
+
 
 
