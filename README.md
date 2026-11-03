@@ -8,7 +8,7 @@
   <p><strong>Pursuing B.E. in Artificial Intelligence & Data Science (AI & DS) | First Year </strong></p>
 </div>
 
-<div align="center">
+<div align="center">f
   <hr style="width: 450px; border: 0; height: 1.5px; background: #30363d; margin: 25px auto;" />
 </div>
 
