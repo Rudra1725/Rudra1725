@@ -7,7 +7,7 @@
   <h1>Hi <img src="assets/wave.gif" height="30" valign="middle" />, I'm 𝑹𝒖𝒅𝒓𝒂 𝑾𝒂𝒈𝒉</h1>
   <p><strong>Pursuing B.E. in Artificial Intelligence & Data Science (AI & DS) | First Year </strong></p>
 </div>
-
+dfsf
 <div align="center">
   <hr style="width: 450px; border: 0; height: 1.5px; background: #30363d; margin: 25px auto;" />
 </div>
