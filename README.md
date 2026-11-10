@@ -3,7 +3,7 @@
 
 </div>
 
-<div align="center">
+<div align="center">sd
   <h1>Hi <img src="assets/wave.gif" height="30" valign="middle" />, I'm 𝑹𝒖𝒅𝒓𝒂 𝑾𝒂𝒈𝒉</h1>
   <p><strong>Pursuing B.E. in Artificial Intelligence & Data Science (AI & DS) | First Year </strong></p>
 </div>
